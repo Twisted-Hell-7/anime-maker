@@ -1,0 +1,33 @@
+{
+  "title": "The Man Who Hid In Plain Sight",
+  "voice": "am_onyx",
+  "speed": 0.95,
+  "lead": 0.6,
+  "outro": 1.8,
+  "gap": 0.42,
+  "music": "tension",
+  "sources": [
+    "Britannica, 'Killing of Osama bin Laden': killed May 2, 2011 by SEAL Team 6 in a walled compound in Abbottabad, Pakistan; he had hidden there about six years; Abbottabad is roughly 30 miles northeast of Islamabad; four other people including his son Khalid also died; operation called Neptune Spear",
+    "Wikipedia, 'Killing of Osama bin Laden': Operation Neptune Spear launched from about 120 miles away near Jalalabad, Afghanistan; two dozen SEALs in two modified stealth Black Hawks; raid took about 40 minutes; bin Laden killed shortly before 1:00 a.m. Pakistan time; one helicopter crashed during insertion; SEALs destroyed the wreck",
+    "HISTORY.com, 'How SEAL Team Six Took Out Osama bin Laden': operation approved by President Obama; roughly 40 minutes start to finish; bin Laden found on the third floor; one Black Hawk crashed with no injuries and the mission continued",
+    "National September 11 Memorial & Museum, 'Operation Neptune Spear': two helicopters carried 23 SEALs, an interpreter and a combat dog; SEALs collected documents and electronics; the downed helicopter was blown up as a backup helicopter arrived; about 45 minutes on the ground",
+    "Britannica: the compound had no phone or internet service and trash was burned rather than collected, which helped draw CIA suspicion; CIA operatives cut power to the neighborhood as the raid began; SEALs used night vision"
+  ],
+  "lines": [
+    { "text": "Where do you hide the most wanted man on Earth?", "caps": "Where do you *hide | the most wanted *man | on *Earth?" },
+    { "text": "Not in a cave — behind a fourteen-foot wall, in a quiet army town.", "caps": "Not in a *cave. | Behind a *fourteen-foot wall, | in a quiet army *town." },
+    { "text": "For six years, Osama bin Laden lived in Abbottabad, near a military academy.", "caps": "For *six years | Osama bin *Laden | lived in *Abbottabad, | near a military *academy." },
+    { "text": "No phones, no internet, trash burned in the yard. And the CIA noticed.", "caps": "No *phones, | no *internet, | trash *burned in the yard. | *CIA noticed." },
+    { "text": "Just after midnight, May second, twenty eleven — Operation Neptune Spear was a go.", "caps": "Just after *midnight, | *May 2, 2011. | Operation *Neptune Spear | was a *go." },
+    { "text": "Twenty-three SEALs, an interpreter, and a combat dog.", "caps": "*Twenty-three SEALs, | an *interpreter, | and a combat *dog." },
+    { "text": "A hundred and twenty miles from Afghanistan, in two stealth Black Hawks.", "caps": "A hundred and *twenty miles | from *Afghanistan, | in two stealth *Black Hawks." },
+    { "text": "As they came in low, the CIA cut the neighborhood's power.", "caps": "As they came in *low, | the *CIA | cut the *power —" },
+    { "text": "The SEALs swept in on night vision.", "caps": "Night *vision on. | They swept *inside." },
+    { "text": "And the first Black Hawk slammed into the dirt.", "caps": "The first *Black Hawk | slammed into the *dirt." },
+    { "text": "No one was hurt. The mission kept going.", "caps": "No one was *hurt. | The mission kept *going." },
+    { "text": "Forty minutes after it began, bin Laden was dead, on the third floor.", "caps": "*Forty minutes | after it *began, | bin Laden was *dead, | on the *third floor." },
+    { "text": "They took his files, blew up the wreck, and vanished before sunrise.", "caps": "They took his *files, | blew up the *wreck, | and *vanished | before *sunrise." },
+    { "text": "Ten years of hiding from armies and satellites — found living in plain sight.", "caps": "Ten *years of hiding — | found living in plain *sight." },
+    { "text": "The only proof of that night is a hole, where a helicopter used to be.", "caps": "The only *proof of that night | is a *hole — | where a *helicopter | used to *be." }
+  ]
+}

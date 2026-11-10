@@ -1,0 +1,65 @@
+duration 61.97 s
+S01     0.00 →   3.32  (3.32 s)  compound wide, red flickers on at the window on "hide"
+S02     3.32 →   7.76  (4.44 s)  map paper insert, the compound circled in red
+S03     7.76 →  12.89  (5.14 s)  slow drift past the subject glowing in the upper window
+S04    12.89 →  17.65  (4.75 s)  case file: redacted lines, the yard detail circled
+S05    17.65 →  23.06  (5.41 s)  clock ticks past midnight; the operation file drops on "Neptune"
+S06    23.06 →  26.57  (3.51 s)  the team walks through the lamp cone, one light
+S07    26.57 →  31.08  (4.52 s)  two helicopter silhouettes drift; the second banks in on "Black"
+S08    31.08 →  34.92  (3.84 s)  windows go dark one by one; the streetlamp is the last light
+S09    34.92 →  37.48  (2.56 s)  corridor push, the flickering light sweeps
+S10    37.48 →  40.32  (2.84 s)  the helicopter drops behind the wall; dust, shake, black beat
+S11    40.32 →  43.20  (2.88 s)  the tail pokes over the wall; figures move along it
+S12    43.20 →  47.42  (4.22 s)  push up the stairwell; the subject on the landing dims to black
+S13    47.42 →  51.29  (3.87 s)  document insert; a red bloom rises over the wall on "wreck"
+S14    51.29 →  55.78  (4.49 s)  case wall, the compound photo circled
+S15    55.78 →  61.97  (6.19 s)  first light over the compound; slow pull-back, end on the drone
+captions:
+    0.55–1.13   Where do you *hide
+    1.13–2.23   the most wanted *man
+    2.23–3.41   on *Earth?
+    3.41–4.19   Not in a *cave.
+    4.19–5.77   Behind a *fourteen-foot wall,
+    5.77–7.85   in a quiet army *town.
+    7.85–8.77   For *six years
+    8.77–9.61   Osama bin *Laden
+    9.61–10.99  lived in *Abbottabad,
+   10.99–12.97  near a military *academy.
+   12.97–13.79  No *phones,
+   13.79–14.47  no *internet,
+   14.47–16.27  trash *burned in the yard.
+   16.27–17.73  *CIA noticed.
+   17.73–18.85  Just after *midnight,
+   18.85–21.11  *May 2, 2011.
+   21.11–21.95  Operation *Neptune Spear
+   21.95–23.11  was a *go.
+   23.11–24.19  *Twenty-three SEALs,
+   24.19–25.13  an *interpreter,
+   25.13–26.62  and a combat *dog.
+   26.62–27.85  A hundred and *twenty miles
+   27.85–29.15  from *Afghanistan,
+   29.15–31.15  in two stealth *Black Hawks.
+   31.15–31.29  As they came in *low,
+   31.29–32.87  the *CIA
+   32.87–35.01  cut the *power —
+   35.01–36.13  Night *vision on.
+   36.13–37.52  They swept *inside.
+   37.52–38.73  The first *Black Hawk
+   38.73–40.37  slammed into the *dirt.
+   40.37–41.49  No one was *hurt.
+   41.49–43.25  The mission kept *going.
+   43.25–43.75  *Forty minutes
+   43.75–44.83  after it *began,
+   44.83–45.81  bin Laden was *dead,
+   45.81–47.48  on the *third floor.
+   47.48–48.51  They took his *files,
+   48.51–49.39  blew up the *wreck,
+   49.39–49.83  and *vanished
+   49.83–51.34  before *sunrise.
+   51.34–53.65  Ten *years of hiding —
+   53.65–55.87  found living in plain *sight.
+   55.87–57.19  The only *proof of that night
+   57.19–57.83  is a *hole —
+   57.83–58.81  where a *helicopter
+   58.81–61.97  used to *be.
+CHECK OK
